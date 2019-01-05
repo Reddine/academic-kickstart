@@ -2,7 +2,7 @@
 # Selected Talks widget.
 widget = "talks_selected"
 active = false
-date = 2016-04-20T00:00:00
+date = 2019-01-05T00:00:00
 
 title = "Selected Talks"
 subtitle = ""

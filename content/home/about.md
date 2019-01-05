@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = 2016-04-20T00:00:00
+date = 2019-01-05T00:00:00
 
 # Order that this section will appear in.
 weight = 5
@@ -12,22 +12,27 @@ weight = 5
   interests = [
     "Artificial Intelligence",
     "Machine learning",
-    "Neural networks"
+    "Neural networks",
+    "Mobile and Web Development"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD Student in Computer Science"
+  course = "PhD in Computer Science"
   institution = "Badji Mokhtar Annaba University"
   year = 2018
 
 [[education.courses]]
-  course = "Master in Sciences and Technologies of Information and Communication"
+  course = "MSc in Sciences and Technologies of Information and Communication"
   institution = "Badji Mokhtar Annaba University"
   year = 2012
  
+ [[education.courses]]
+  course = "BSc in Computer Science"
+  institution = "Badji Mokhtar Annaba University"
+  year = 2010
 +++
 
 # Biography
 
-Hi! I'm Kheir Eddine FARFAR and welcome to my little corner of the internet. I currently work as a software engineer at Pinnovate where I spend my time building awesome tools for education. I am also a member of LabGED laboratory, My research interests include Artificial Neural networks, Time series, Short Term load forecasting.
+Hi! I'm Kheir Eddine FARFAR and welcome to my little corner of the internet. I currently work as a software engineer at Pinnovate where I spend my time building awesome tools for education. I am also a substitute teacher at the University of Annaba, My research interests include Artificial Neural networks, Machine learning, Time series, Short Term load forecasting.
